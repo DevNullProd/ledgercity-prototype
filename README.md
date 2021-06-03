@@ -22,8 +22,20 @@ This prototype is based on the Unity game engine with custom graphical assets de
 
 Once completed, Ledger City will pull data from the live XRP blockchain and will be updated in real time as accounts are modified.
 
+## Future Ideas
+
+Ledger City will facilitate many exciting and fun gameplay mechanics including:
+
+- City building and exploration (avatars)
+- Automobile racing and challenges
+- Chat mechanics / community building
+- Building interiors and customization
+- Shared monuments for community initiatives
+- Quests & Storylines
+- Combat (guilds / teams)
+
 ## Legalize
 
 (C) 2021 Dev Null Productions
 
-Released under the AGPLv2
+Released under the GNU AGPLv3
